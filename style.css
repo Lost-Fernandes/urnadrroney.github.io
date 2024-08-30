@@ -202,13 +202,13 @@ button {
 }
 
 .aviso--grande {
-    margin-top: 10px;
-    font-size: 50px;
+    margin-top: 3px;
+    font-size: 20px;
     font-weight: bold;
 }
 
 .aviso--gigante {
-    font-size: 70px;
+    font-size: 10px;
     font-weight: bold;
     display: flex;
     flex: 1;
